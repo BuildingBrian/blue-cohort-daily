@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blue Cohort Daily</title>
+    <link>https://buildingbrian.github.io/blue-cohort-daily/</link>
+    <atom:link href="https://buildingbrian.github.io/blue-cohort-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 07 Sep 2026 23:53:30 +0000</lastBuildDate>
+    <language>en-us</language>
+    <description>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</description>
+    <itunes:summary>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</itunes:summary>
+    <itunes:author>Brian Arevalo Ramos</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Brian Arevalo Ramos</itunes:name>
+      <itunes:email>27dollars-central@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://buildingbrian.github.io/blue-cohort-daily/cover.jpg"/>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <item>
+      <title>Tuesday, September 8 — 201A, 200S</title>
+      <description>201A, 200S on Tuesday, September 8. What's due, a recap of last class, the assigned readings, and what today covers.</description>
+      <itunes:summary>201A, 200S on Tuesday, September 8. What's due, a recap of last class, the assigned readings, and what today covers.</itunes:summary>
+      <guid isPermaLink="false">2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 05:00:00 -0700</pubDate>
+      <enclosure url="https://buildingbrian.github.io/blue-cohort-daily/episodes/2026-09-08.mp3" length="10959947" type="audio/mpeg"/>
+      <itunes:duration>00:11:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
