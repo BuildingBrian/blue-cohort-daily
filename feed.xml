@@ -7,7 +7,7 @@
     <title>Blue Cohort Daily</title>
     <link>https://buildingbrian.github.io/blue-cohort-daily/</link>
     <atom:link href="https://buildingbrian.github.io/blue-cohort-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 08 Sep 2026 03:41:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:10:38 +0000</lastBuildDate>
     <language>en-us</language>
     <description>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</description>
     <itunes:summary>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</itunes:summary>
@@ -22,6 +22,16 @@
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
     </itunes:category>
+    <item>
+      <title>Wednesday, September 9 — 202, 205</title>
+      <description>202, 205 on Wednesday, September 9. What's due, a recap of last class, the assigned readings, and what today covers.</description>
+      <itunes:summary>202, 205 on Wednesday, September 9. What's due, a recap of last class, the assigned readings, and what today covers.</itunes:summary>
+      <guid isPermaLink="false">2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 05:00:00 -0700</pubDate>
+      <enclosure url="https://buildingbrian.github.io/blue-cohort-daily/episodes/2026-09-09.mp3" length="9014765" type="audio/mpeg"/>
+      <itunes:duration>00:09:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday, September 8 — 201A, 200S</title>
       <description>201A, 200S on Tuesday, September 8. What's due, a recap of last class, the assigned readings, and what today covers.</description>
