@@ -7,18 +7,18 @@
     <title>Blue Cohort Daily</title>
     <link>https://buildingbrian.github.io/blue-cohort-daily/</link>
     <atom:link href="https://buildingbrian.github.io/blue-cohort-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 10 Sep 2026 04:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:12:45 +0000</lastBuildDate>
     <language>en-us</language>
     <description>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</description>
     <itunes:summary>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</itunes:summary>
-    <itunes:author>Brian Arevalo Ramos</itunes:author>
+    <itunes:author>Brian Arevalo</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Brian Arevalo Ramos</itunes:name>
+      <itunes:name>Brian Arevalo</itunes:name>
       <itunes:email>27dollars-central@icloud.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://buildingbrian.github.io/blue-cohort-daily/cover.jpg"/>
+    <itunes:image href="https://buildingbrian.github.io/blue-cohort-daily/cover-v2.jpg"/>
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
     </itunes:category>
