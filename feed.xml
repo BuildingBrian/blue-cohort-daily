@@ -7,7 +7,7 @@
     <title>Blue Cohort Daily</title>
     <link>https://buildingbrian.github.io/blue-cohort-daily/</link>
     <atom:link href="https://buildingbrian.github.io/blue-cohort-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 12 Oct 2026 06:47:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:41:01 +0000</lastBuildDate>
     <language>en-us</language>
     <description>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</description>
     <itunes:summary>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</itunes:summary>
@@ -23,9 +23,9 @@
       <itunes:category text="Courses"/>
     </itunes:category>
     <item>
-      <title>Friday, October 16 — 201A</title>
-      <description>201A on Friday, October 16. What's due, a recap of last class, the assigned readings, and what today covers.</description>
-      <itunes:summary>201A on Friday, October 16. What's due, a recap of last class, the assigned readings, and what today covers.</itunes:summary>
+      <title>Micro Econ Final Review</title>
+      <description>Full review for the Micro Econ final on Friday, October 16: markets and cost, monopoly pricing, price discrimination, the long run, decision trees, game theory and auctions, the Bertrand trap, and market failure.</description>
+      <itunes:summary>Full review for the Micro Econ final on Friday, October 16: markets and cost, monopoly pricing, price discrimination, the long run, decision trees, game theory and auctions, the Bertrand trap, and market failure.</itunes:summary>
       <guid isPermaLink="false">2026-10-16</guid>
       <pubDate>Sun, 11 Oct 2026 23:47:05 -0700</pubDate>
       <enclosure url="https://buildingbrian.github.io/blue-cohort-daily/episodes/2026-10-16.mp3" length="17392330" type="audio/mpeg"/>
@@ -33,9 +33,9 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Thursday, October 15 — 201A, 200S</title>
-      <description>201A, 200S on Thursday, October 15. What's due, a recap of last class, the assigned readings, and what today covers.</description>
-      <itunes:summary>201A, 200S on Thursday, October 15. What's due, a recap of last class, the assigned readings, and what today covers.</itunes:summary>
+      <title>Accounting Final Review</title>
+      <description>Full review for the Financial Accounting final on Thursday, October 15: the four statements, accruals and adjustments, receivables and the allowance, inventory and cost of goods sold, long-lived assets, and the statement of cash flows.</description>
+      <itunes:summary>Full review for the Financial Accounting final on Thursday, October 15: the four statements, accruals and adjustments, receivables and the allowance, inventory and cost of goods sold, long-lived assets, and the statement of cash flows.</itunes:summary>
       <guid isPermaLink="false">2026-10-15</guid>
       <pubDate>Sun, 11 Oct 2026 23:45:45 -0700</pubDate>
       <enclosure url="https://buildingbrian.github.io/blue-cohort-daily/episodes/2026-10-15.mp3" length="12499291" type="audio/mpeg"/>
@@ -43,9 +43,9 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Tuesday, October 13 — 201A, 200S</title>
-      <description>201A, 200S on Tuesday, October 13. What's due, a recap of last class, the assigned readings, and what today covers.</description>
-      <itunes:summary>201A, 200S on Tuesday, October 13. What's due, a recap of last class, the assigned readings, and what today covers.</itunes:summary>
+      <title>Data and Decisions Final Review</title>
+      <description>Full review for the Data and Decisions final on Tuesday, October 13: sampling and bias, control limits, confidence intervals and hypothesis tests, experiments, regression, omitted variable bias, collinearity, and predictive versus causal questions.</description>
+      <itunes:summary>Full review for the Data and Decisions final on Tuesday, October 13: sampling and bias, control limits, confidence intervals and hypothesis tests, experiments, regression, omitted variable bias, collinearity, and predictive versus causal questions.</itunes:summary>
       <guid isPermaLink="false">2026-10-13</guid>
       <pubDate>Sun, 11 Oct 2026 22:19:38 -0700</pubDate>
       <enclosure url="https://buildingbrian.github.io/blue-cohort-daily/episodes/2026-10-13.mp3" length="16114219" type="audio/mpeg"/>
@@ -53,9 +53,9 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Monday, October 12 — 202, 205</title>
-      <description>202, 205 on Monday, October 12. What's due, a recap of last class, the assigned readings, and what today covers.</description>
-      <itunes:summary>202, 205 on Monday, October 12. What's due, a recap of last class, the assigned readings, and what today covers.</itunes:summary>
+      <title>Leading People Final Review</title>
+      <description>Full review for the Leading People final on Monday, October 12: exam format, the short-essay formula, sessions 8 to 14, the Airbnb and BlueRock cases, and the confusable pairs.</description>
+      <itunes:summary>Full review for the Leading People final on Monday, October 12: exam format, the short-essay formula, sessions 8 to 14, the Airbnb and BlueRock cases, and the confusable pairs.</itunes:summary>
       <guid isPermaLink="false">2026-10-12</guid>
       <pubDate>Sun, 11 Oct 2026 22:06:18 -0700</pubDate>
       <enclosure url="https://buildingbrian.github.io/blue-cohort-daily/episodes/2026-10-12.mp3" length="16253396" type="audio/mpeg"/>
