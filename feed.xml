@@ -7,7 +7,7 @@
     <title>Blue Cohort Daily</title>
     <link>https://buildingbrian.github.io/blue-cohort-daily/</link>
     <atom:link href="https://buildingbrian.github.io/blue-cohort-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 07:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:49:44 +0000</lastBuildDate>
     <language>en-us</language>
     <description>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</description>
     <itunes:summary>Class prep for Berkeley Haas Blue Cohort. Each morning before class: what's due, what happened last time, what you were meant to read, and what today covers. About twelve minutes.</itunes:summary>
@@ -22,6 +22,16 @@
     <itunes:category text="Education">
       <itunes:category text="Courses"/>
     </itunes:category>
+    <item>
+      <title>Wednesday, November 18 — 203</title>
+      <description>203 on Wednesday, November 18. What's due, a recap of last class, the assigned readings, and what today covers.</description>
+      <itunes:summary>203 on Wednesday, November 18. What's due, a recap of last class, the assigned readings, and what today covers.</itunes:summary>
+      <guid isPermaLink="false">2026-11-18</guid>
+      <pubDate>Tue, 17 Nov 2026 18:49:44 -0800</pubDate>
+      <enclosure url="https://buildingbrian.github.io/blue-cohort-daily/episodes/2026-11-18.mp3" length="7429022" type="audio/mpeg"/>
+      <itunes:duration>00:07:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday, November 17 — Marketing readings: Starbucks and foreign retailers in China</title>
       <description>Bonus episode: plain-language summaries of the two Marketing Class 7 pre-readings, the Starbucks emerging-markets case and the note on why most foreign retailers fail in China.</description>
